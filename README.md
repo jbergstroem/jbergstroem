@@ -1,10 +1,10 @@
 ### Nice to meet!
 
-I'm Johan Bergström – a serial entrepreneur and geek born and raised in Sweden 🇸🇪. Since my early 20's have built, learned from failures and sold various tech startups using my skills in software engineering. Along the way, I've met incredibly talented co-founders and co-workers. I currently live in Santiago, Chile 🇨🇱 .
+I'm Johan Bergström – a serial entrepreneur and geek born and raised in Sweden 🇸🇪. Since my early 20's have built, learned from failures and sold various tech startups using my skills in software engineering. Along the way, I've met incredibly talented co-founders and co-workers. I currently live in Santiago, Chile 🇨🇱.
 
-Ever since embedding Spidermonkey in Python 2010 (cross-rendering John Resig's Micro Template), I've come to love the javascript ecosystem. I got involved in [Node.js][nodejs] in its early stages and became a core contributor, ultimately taking a seat on [the build infra team][nodejs-build].
+After first embedding Spidermonkey in Python 2010 (cross-rendering John Resig's Micro Template), I've come to love the javascript ecosystem. I got involved in [Node.js][nodejs] in its early stages and became a core contributor, ultimately taking a seat on [the build infra team][nodejs-build].
 
-I deeploy enjoy engaging in open source; through code, discussions or conversations. Reach out!
+I deeply enjoy engaging in open source; through code, discussions or conversations. Reach out!
 
 #### Currently
 

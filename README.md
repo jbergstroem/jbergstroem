@@ -23,7 +23,7 @@ I deeply enjoy engaging in open source; through code, discussions or conversatio
 [nodejs]: https://nodejs.org
 [nodejs-build]: https://github.com/nodejs/build
 [habit-global]: https://github.com/habit-global
-[mariadb-alpine]: https://github.com
+[mariadb-alpine]: https://github.com/jbergstroem/mariadb-alpine
 [hadolint]: https://github.com/jbergstroem/hadolint-gh-action
 [falabella]: https://investors.falabella.com/English/overview/default.aspx
 [aller]: https://www.aller.se/koncern/

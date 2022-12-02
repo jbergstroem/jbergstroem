@@ -17,7 +17,7 @@ I deeply enjoy engaging in open source; through code, discussions or conversatio
 #### Previously (notable)
 
 - Tech lead at Falabella Labs, [Falabella Groups][falabella] innovation unit
-- Co-founder & CTO @ Pageload (acquihired by Falabella): A SaaS that makes websites load faster
+- Co-founder & CTO @ Pageload (used my multiple enterprises in LATAM): A SaaS that makes websites load faster
 - Co-founder & CTO @ Blogg.se - Scandinavias (at the time) largest blogging platform (sold to [Aller Media][aller]).
 
 [nodejs]: https://nodejs.org

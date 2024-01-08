@@ -8,7 +8,7 @@ I deeply enjoy engaging in open source; through code, discussions or conversatio
 
 #### Currently
 
-- CTO @ [Emma Cares][habit-global]: Building conversational commerce tools in the beauty space
+- Tech lead at @Topsort
 - Improving [the fastest starting Mariadb container][mariadb-alpine]
 - Managing a few github actions: [hadolint][hadolint], (private)
 - Researching WinterCG projects (Deno, Cloudflare Workers, Bun, ..)

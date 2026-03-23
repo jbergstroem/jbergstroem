@@ -8,7 +8,7 @@ I deeply enjoy engaging in open source; through code, discussions or conversatio
 
 #### Currently
 
-- Tech lead at @Topsort
+- Product at @supabase
 - Improving [the fastest starting Mariadb container][mariadb-alpine]
 - Managing a few github actions: [hadolint][hadolint], (private)
 - Researching WinterCG projects (Deno, Cloudflare Workers, Bun, ..)
